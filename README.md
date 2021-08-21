@@ -1,7 +1,6 @@
 # Entrepot-Optimise1-Storage-Optimizer
-The project aims to improve the storage location stratergy through the use of data technology, cluster analysis and profit prediction
-
-
+Video Link: https://drive.google.com/file/d/1t8ObHGT7NJLUVwdAh-fyEDNS8OcH6o4L/view?usp=sharing
+Web App to improve storage location strategy through the use of Machine Learning and Combinatorial Optimization Technique (DSA) .It was implemented with Django framework and MYSQL for database .
 
 
 
